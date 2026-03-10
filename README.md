@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Welcome to my profile.</h1>
 
-<p>I'm <b>Jassim Bashir</b>, a <b>Flutter Developer</b> with <b>7 years</b> of experience, building products and open to exciting opportunities. Based in <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>London, UK</b>. Check out my work at <a href="https://www.jassimbashir.com" target="_blank">jassimbashir.com</a>.</p>
+<p>I'm <b>Jassim Bashir</b>, a <b>Flutter Developer</b> with <b>7+ years</b> of experience, building products and open to exciting opportunities. Based in <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>London, UK</b>. Check out my work at <a href="https://www.jassimbashir.com" target="_blank">jassimbashir.com</a>.</p>
 
 <h3>About Me</h3>
 <ul>
