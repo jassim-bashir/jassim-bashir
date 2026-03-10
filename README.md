@@ -8,6 +8,7 @@
 <li>Riverpod + local widget state management.</li>
 <li>Clean Architecture (Feature-First, Layered).</li>
 <li>Passionate about <b>Flutter performance, app scalability, and clean code</b>.</li>
+<li>Daily user of modern <b>AI-assisted development tools</b> (ChatGPT, Claude, Grok, Claude Code, Cursor) to accelerate development, debugging, and architecture decisions.</li>
 <li><b>Fun fact:</b> I’m a self-taught developer who discovered my passion for technology early on, leaving medical studies to pursue Computer Science. From experimenting with a Pentium III and writing 'Hello World' programs, I taught myself web and mobile development through countless tutorials, articles, and projects. I even delivered food with Uber before fully diving into Flutter, and now I’m building and publishing my own apps while sharing my journey with the community.</li>
 </ul>
 
@@ -24,6 +25,11 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
   <img alt="XCode" src="https://img.shields.io/badge/-XCode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="Grok" src="https://img.shields.io/badge/-Grok-000000?style=flat-square&logo=x&logoColor=white" />
+  <img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="Cursor" src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
 </p>
 
 <h3>Latest LinkedIn Posts</h3>
